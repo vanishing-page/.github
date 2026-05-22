@@ -1,4 +1,3 @@
-# Vanishing Page
+# [vanishing.page](https://vanishing.page/)
 
-Issues, etc
-
+End-to-end encrypted messages and files with a limited lifespan.
